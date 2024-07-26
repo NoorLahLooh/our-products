@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:rgb(221, 200, 240);
+}
+ 
+
+.our products{
+    
+    text-align: center;
+    
+      
+}
+.mobile{
+    float: left;
+    width: 20%;
+    border: 2px rgb(148, 115, 179) solid;
+    margin: 5px;
+    padding: 7px;
+    
+
+    
+   
+      
+}
+.clearfix{
+    clear: left;
+
+}
+.iphone{
+    width: 80%; 
+    margin: auto;
+    margin-top: 30px;
+    
+     
+}
+ h1{
+    margin-left: 150px;
+    text-decoration-line: underline;
+    
+    
+}
+
+.price{
+    
+  color: rgb(156, 13, 156);
+    word-spacing: 10px;
+}
+.price1{
+    float: left;
+    margin-right: 10px ;
+    font-weight: 600;
+}
+.price2{
+    float: left;
+    text-decoration-line:line-through ;
+    font-weight: 600;
+    color: black;
+}
+.clearfix{
+    clear: both;
+}
+
+
+
+
+
+
+
+img{
+   margin-left: auto;
+   margin-right: auto;
+    display: block;
+    width: 235px;
+  
+    
+}
+h2,p{
+    text-align:left ;
+    font-style: italic;
+
+}
+h2{
+    text-transform: uppercase;
+}
+button{
+    padding: 5px 55px 5px 55px;
+    background-color:rgb(200, 154, 200);
+    
+}
+.heart{
+    padding: 4px;
+}
+
+
+
